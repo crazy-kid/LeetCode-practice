@@ -11,6 +11,7 @@ public class mid_46 {
 
         List<List<Integer>> list = new ArrayList<List<Integer>>();
         int n = nums.length;
+        System.out.println("Hello");
 
     }
 
