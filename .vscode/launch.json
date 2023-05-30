@@ -1,0 +1,854 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "mid_22",
+            "request": "launch",
+            "mainClass": "mid_22",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_17",
+            "request": "launch",
+            "mainClass": "mid_17",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "easy_13",
+            "request": "launch",
+            "mainClass": "easy_13",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_14",
+            "request": "launch",
+            "mainClass": "easy_14",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_2103",
+            "request": "launch",
+            "mainClass": "easy_2103",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_219",
+            "request": "launch",
+            "mainClass": "easy_219",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_2475",
+            "request": "launch",
+            "mainClass": "easy_2475",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_266",
+            "request": "launch",
+            "mainClass": "easy_266",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_338",
+            "request": "launch",
+            "mainClass": "easy_338",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_496",
+            "request": "launch",
+            "mainClass": "easy_496",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_594",
+            "request": "launch",
+            "mainClass": "easy_594",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_697",
+            "request": "launch",
+            "mainClass": "easy_697",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_868",
+            "request": "launch",
+            "mainClass": "easy_868",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "easy_944",
+            "request": "launch",
+            "mainClass": "easy_944",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_10",
+            "request": "launch",
+            "mainClass": "hard_10",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_1121",
+            "request": "launch",
+            "mainClass": "hard_1121",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_123",
+            "request": "launch",
+            "mainClass": "hard_123",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_132",
+            "request": "launch",
+            "mainClass": "hard_132",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_17_24",
+            "request": "launch",
+            "mainClass": "hard_17_24",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_188",
+            "request": "launch",
+            "mainClass": "hard_188",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_296",
+            "request": "launch",
+            "mainClass": "hard_296",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_32",
+            "request": "launch",
+            "mainClass": "hard_32",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_354",
+            "request": "launch",
+            "mainClass": "hard_354",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_410",
+            "request": "launch",
+            "mainClass": "hard_410",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_44",
+            "request": "launch",
+            "mainClass": "hard_44",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_72",
+            "request": "launch",
+            "mainClass": "hard_72",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_801",
+            "request": "launch",
+            "mainClass": "hard_801",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_975",
+            "request": "launch",
+            "mainClass": "hard_975",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1055",
+            "request": "launch",
+            "mainClass": "mid_1055",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1058",
+            "request": "launch",
+            "mainClass": "mid_1058",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1143",
+            "request": "launch",
+            "mainClass": "mid_1143",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1190",
+            "request": "launch",
+            "mainClass": "mid_1190",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_122",
+            "request": "launch",
+            "mainClass": "mid_122",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1230",
+            "request": "launch",
+            "mainClass": "mid_1230",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1248",
+            "request": "launch",
+            "mainClass": "mid_1248",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1253",
+            "request": "launch",
+            "mainClass": "mid_1253",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1256",
+            "request": "launch",
+            "mainClass": "mid_1256",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1310",
+            "request": "launch",
+            "mainClass": "mid_1310",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1314",
+            "request": "launch",
+            "mainClass": "mid_1314",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1423",
+            "request": "launch",
+            "mainClass": "mid_1423",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1442",
+            "request": "launch",
+            "mainClass": "mid_1442",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_15",
+            "request": "launch",
+            "mainClass": "mid_15",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_152",
+            "request": "launch",
+            "mainClass": "mid_152",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1525",
+            "request": "launch",
+            "mainClass": "mid_1525",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1561",
+            "request": "launch",
+            "mainClass": "mid_1561",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_162",
+            "request": "launch",
+            "mainClass": "mid_162",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1664",
+            "request": "launch",
+            "mainClass": "mid_1664",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_16_21",
+            "request": "launch",
+            "mainClass": "mid_16_21",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1702",
+            "request": "launch",
+            "mainClass": "mid_1702",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1870",
+            "request": "launch",
+            "mainClass": "mid_1870",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_1963",
+            "request": "launch",
+            "mainClass": "mid_1963",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_198",
+            "request": "launch",
+            "mainClass": "mid_198",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_200",
+            "request": "launch",
+            "mainClass": "mid_200",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_204",
+            "request": "launch",
+            "mainClass": "mid_204",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2090",
+            "request": "launch",
+            "mainClass": "mid_2090",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2116",
+            "request": "launch",
+            "mainClass": "mid_2116",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_213",
+            "request": "launch",
+            "mainClass": "mid_213",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2140",
+            "request": "launch",
+            "mainClass": "mid_2140",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2191",
+            "request": "launch",
+            "mainClass": "mid_2191",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_221",
+            "request": "launch",
+            "mainClass": "mid_221",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2222",
+            "request": "launch",
+            "mainClass": "mid_2222",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2232",
+            "request": "launch",
+            "mainClass": "mid_2232",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2279",
+            "request": "launch",
+            "mainClass": "mid_2279",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2327",
+            "request": "launch",
+            "mainClass": "mid_2327",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_238",
+            "request": "launch",
+            "mainClass": "mid_238",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2466",
+            "request": "launch",
+            "mainClass": "mid_2466",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2498",
+            "request": "launch",
+            "mainClass": "mid_2498",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_255",
+            "request": "launch",
+            "mainClass": "mid_255",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_256",
+            "request": "launch",
+            "mainClass": "mid_256",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_2576",
+            "request": "launch",
+            "mainClass": "mid_2576",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_279",
+            "request": "launch",
+            "mainClass": "mid_279",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_3",
+            "request": "launch",
+            "mainClass": "mid_3",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_300",
+            "request": "launch",
+            "mainClass": "mid_300",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_309",
+            "request": "launch",
+            "mainClass": "mid_309",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_325",
+            "request": "launch",
+            "mainClass": "mid_325",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_360",
+            "request": "launch",
+            "mainClass": "mid_360",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_368",
+            "request": "launch",
+            "mainClass": "mid_368",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_370",
+            "request": "launch",
+            "mainClass": "mid_370",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_38",
+            "request": "launch",
+            "mainClass": "mid_38",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_396",
+            "request": "launch",
+            "mainClass": "mid_396",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_413",
+            "request": "launch",
+            "mainClass": "mid_413",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_45",
+            "request": "launch",
+            "mainClass": "mid_45",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_467",
+            "request": "launch",
+            "mainClass": "mid_467",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_486",
+            "request": "launch",
+            "mainClass": "mid_486",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_5",
+            "request": "launch",
+            "mainClass": "mid_5",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_516",
+            "request": "launch",
+            "mainClass": "mid_516",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_523",
+            "request": "launch",
+            "mainClass": "mid_523",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_525",
+            "request": "launch",
+            "mainClass": "mid_525",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_53",
+            "request": "launch",
+            "mainClass": "mid_53",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_54",
+            "request": "launch",
+            "mainClass": "mid_54",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_542_01",
+            "request": "launch",
+            "mainClass": "mid_542_01",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_560",
+            "request": "launch",
+            "mainClass": "mid_560",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_583",
+            "request": "launch",
+            "mainClass": "mid_583",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_611",
+            "request": "launch",
+            "mainClass": "mid_611",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_647",
+            "request": "launch",
+            "mainClass": "mid_647",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_648",
+            "request": "launch",
+            "mainClass": "mid_648",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_673",
+            "request": "launch",
+            "mainClass": "mid_673",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_712",
+            "request": "launch",
+            "mainClass": "mid_712",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_713",
+            "request": "launch",
+            "mainClass": "mid_713",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_714",
+            "request": "launch",
+            "mainClass": "mid_714",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_718",
+            "request": "launch",
+            "mainClass": "mid_718",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_738",
+            "request": "launch",
+            "mainClass": "mid_738",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_740",
+            "request": "launch",
+            "mainClass": "mid_740",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_790",
+            "request": "launch",
+            "mainClass": "mid_790",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_813",
+            "request": "launch",
+            "mainClass": "mid_813",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_848",
+            "request": "launch",
+            "mainClass": "mid_848",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_877",
+            "request": "launch",
+            "mainClass": "mid_877",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_91",
+            "request": "launch",
+            "mainClass": "mid_91",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_912",
+            "request": "launch",
+            "mainClass": "mid_912",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_918",
+            "request": "launch",
+            "mainClass": "mid_918",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_931",
+            "request": "launch",
+            "mainClass": "mid_931",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_955",
+            "request": "launch",
+            "mainClass": "mid_955",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_97",
+            "request": "launch",
+            "mainClass": "mid_97",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_974",
+            "request": "launch",
+            "mainClass": "mid_974",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_OfferII_074",
+            "request": "launch",
+            "mainClass": "mid_OfferII_074",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_OfferII_093",
+            "request": "launch",
+            "mainClass": "mid_OfferII_093",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_OfferII_103",
+            "request": "launch",
+            "mainClass": "mid_OfferII_103",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_OfferII_37",
+            "request": "launch",
+            "mainClass": "mid_OfferII_37",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_OfferI_46",
+            "request": "launch",
+            "mainClass": "mid_OfferI_46",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "LeeCode_df2b9df3"
+        }
+    ]
+}
