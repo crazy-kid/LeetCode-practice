@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
 public class test {
 
     public static void main(String[] args) {
+        StringBuilder s = new StringBuilder();
+        s.append(12);
         System.out.println('A' - 0);
     }
 }
