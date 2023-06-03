@@ -19,7 +19,8 @@ public class mid_209 {
             }
             fast++;
         }
-
+        if (len == Integer.MAX_VALUE)
+            return;
         System.out.println(len);
     }
 }
