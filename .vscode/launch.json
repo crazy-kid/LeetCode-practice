@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hard_32",
+            "request": "launch",
+            "mainClass": "JAVA.Hard.hard_32",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_44",
+            "request": "launch",
+            "mainClass": "JAVA.Hard.hard_44",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "hard_10",
+            "request": "launch",
+            "mainClass": "JAVA.Hard.hard_10",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
             "name": "mid_80",
             "request": "launch",
             "mainClass": "mid_80",

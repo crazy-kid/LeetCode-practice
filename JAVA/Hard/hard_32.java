@@ -1,3 +1,5 @@
+package JAVA.Hard;
+
 import java.util.Stack;
 
 public class hard_32 {

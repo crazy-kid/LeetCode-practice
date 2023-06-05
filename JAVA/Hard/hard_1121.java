@@ -1,3 +1,5 @@
+package JAVA.Hard;
+
 public class hard_1121 {
 
     public static void main(String[] args) {

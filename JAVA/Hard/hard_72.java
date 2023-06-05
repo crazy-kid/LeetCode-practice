@@ -1,3 +1,5 @@
+package JAVA.Hard;
+
 import java.util.Arrays;
 
 public class hard_72 {
