@@ -7,12 +7,7 @@ import java.util.PriorityQueue;
 public class test {
 
     public static void main(String[] args) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                // TODO Auto-generated method stub
-                return 0;
-            }
-        });
+        int[] map = { 1, 2, 2, 1, 0, 1, 1, 1, 0, 1, 1, 1, 2, 2, 0, 0, 0, 0, 1, 0, 0, 2, 0, 2, 0, 2 };
+        System.out.println(map.length);
     }
 }
