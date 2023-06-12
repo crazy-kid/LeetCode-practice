@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 import java.util.ArrayList;
 
 public class mid_22 {

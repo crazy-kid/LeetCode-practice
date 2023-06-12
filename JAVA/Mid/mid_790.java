@@ -1,6 +1,8 @@
+package JAVA.Mid;
+
 public class mid_790 {
 
-    public static void main(String[] args) {//这题答案数据很大 即使有MOD的情况下也要用Long
+    public static void main(String[] args) {// 这题答案数据很大 即使有MOD的情况下也要用Long
         int n = 11;
 
         int[] dpUp = new int[n + 1];// 只有上面是实的

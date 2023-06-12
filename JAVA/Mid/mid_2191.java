@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 import java.util.Arrays;
 import java.util.Comparator;
 
@@ -20,7 +22,6 @@ public class mid_2191 {
             }
         });
 
-        
     }
 
     public static int trans(int a, int[] mapping) {

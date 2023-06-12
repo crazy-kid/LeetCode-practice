@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_396 {
     public static void main(String[] args) {
         int[] nums = { 4, 3, 2, 6 };

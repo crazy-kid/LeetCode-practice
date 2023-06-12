@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_2232 {
     public static void main(String[] args) {
         String s = "247+38";

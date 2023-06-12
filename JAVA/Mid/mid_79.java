@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_79 {
 
     public static int m;

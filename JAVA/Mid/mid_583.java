@@ -1,9 +1,11 @@
+package JAVA.Mid;
+
 import java.util.Arrays;
 
 public class mid_583 {
 
     public static void main(String[] args) {
-        String word1 = "troph";//t ph
+        String word1 = "troph";// t ph
         String word2 = "etylph";
 
         char[] clist1 = word1.toCharArray();

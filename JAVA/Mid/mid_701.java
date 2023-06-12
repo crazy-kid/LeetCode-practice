@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_701 {
 
     class Node {

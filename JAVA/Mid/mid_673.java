@@ -1,9 +1,11 @@
+package JAVA.Mid;
+
 import java.util.Arrays;
 
 public class mid_673 {
 
     public static void main(String[] args) {
-        int[] nums = {2,2,2,2,2};
+        int[] nums = { 2, 2, 2, 2, 2 };
 
         int n = nums.length;
         int[] count = new int[n + 1];

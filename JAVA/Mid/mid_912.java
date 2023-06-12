@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_912 {
 
     public static void main(String[] args) {

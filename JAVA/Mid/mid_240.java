@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_240 {
     public static int[][] matrix;
     public static int target;

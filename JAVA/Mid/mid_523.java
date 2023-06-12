@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 import java.util.HashSet;
 
 public class mid_523 {

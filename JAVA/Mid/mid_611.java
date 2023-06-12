@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 import java.util.Arrays;
 
 class mid_611 {

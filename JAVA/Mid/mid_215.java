@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 import java.util.PriorityQueue;
 
 public class mid_215 {

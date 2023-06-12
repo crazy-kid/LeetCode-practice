@@ -1,8 +1,9 @@
+package JAVA.Mid;
 
 public class mid_955 {
 
     public static void main(String[] args) {
-        String[] strs = {"zyx","wvu","tsr" };
+        String[] strs = { "zyx", "wvu", "tsr" };
 
         boolean[] Ranked = new boolean[strs.length];
         int l = strs[0].length();

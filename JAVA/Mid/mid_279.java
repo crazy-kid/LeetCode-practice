@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_279 {
     public static void main(String[] args) {
         int n = 12;

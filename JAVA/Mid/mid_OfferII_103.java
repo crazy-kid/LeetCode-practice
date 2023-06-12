@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 public class mid_OfferII_103 {
 
     public static void main(String[] args) {

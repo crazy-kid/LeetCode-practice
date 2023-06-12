@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 import java.util.Arrays;
 
 public class mid_368 {
@@ -20,7 +22,7 @@ public class mid_368 {
                 }
             }
         }
-        for(int e : dp){
+        for (int e : dp) {
             System.out.println(e);
         }
     }

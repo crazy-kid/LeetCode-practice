@@ -1,3 +1,5 @@
+package JAVA.Mid;
+
 import java.util.HashMap;
 
 public class mid_1702 {

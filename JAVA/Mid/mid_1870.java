@@ -1,6 +1,8 @@
+package JAVA.Mid;
+
 public class mid_1870 {
     public static void main(String[] args) {
-        int[] dist = { 3,3 };
+        int[] dist = { 3, 3 };
         double hour = 2.0;
         if (dist.length > Math.ceil(hour))
             return;
@@ -13,7 +15,7 @@ public class mid_1870 {
         if (hour != Math.floor(hour))
             max = Math.max(max, (int) (Math.ceil(dist[dist.length - 1] / (hour - Math.floor(hour)))));
         int min = (int) (sum / hour);
-        int mid = (min+max)/2;
+        int mid = (min + max) / 2;
         while (min < max) {
             mid = (min + max) / 2;
             if (isAvailable(dist, hour, mid)) {
