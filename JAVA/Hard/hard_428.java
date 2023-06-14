@@ -31,7 +31,6 @@ public class hard_428 {
             return ans.toString();
         queue.add(root);
         ans.append(root.val + ",null,");
-        int size = queue.size();
         while (!queue.isEmpty()) {
             Node pa = queue.poll();
             for (Node child : pa.children) {
