@@ -9,9 +9,8 @@ import java.util.ArrayList;
 public class test {
 
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList<Integer>();
-        list.add(0, null);
-        list.set(0, null);
+        int a = 12;
+        System.out.println(Integer.highestOneBit(a));
     }
 
 }
