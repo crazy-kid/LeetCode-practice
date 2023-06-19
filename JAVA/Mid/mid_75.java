@@ -5,33 +5,26 @@ public class mid_75 {
     public static void main(String[] args) {
         int[] nums = { 2, 0, 2, 1, 1, 0 };
 
-        int left = 0;
-        int right = nums.length - 1;
-        while (left < right) {
-            while (left < nums.length && nums[left] == 0)
-                left++;
-            while (right >= 0 && nums[right] != 0)
-                right--;
-            if (left < right)
-                swap(left, right, nums);
-        }
-        left = 0;
-        right = nums.length - 1;
-        while (left < right) {
-            while (left < nums.length && nums[left] <= 1)
-                left++;
-            while (right >= 0 && nums[right] == 2)
-                right--;
-            if (left < right)
-                swap(left, right, nums);
+        int zero = -1;
+        int one = -1;
+        int cur = 0;
+        while (cur < nums.length) {
+            switch (nums[cur]) {
+                case 0:
+                    nums[cur] = 2;
+                    nums[++one] = 1;
+                    nums[++zero] = 0;
+                    break;
+                case 1:
+                    nums[cur] = 2;
+                    nums[++one] = 1;
+                    break;
+                default:
+                    break;
+            }
+            cur++;
         }
         for (int i : nums)
-            System.out.println(i);
-    }
-
-    public static void swap(int i, int j, int[] nums) {
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
+            System.out.print(i + " ");
     }
 }
