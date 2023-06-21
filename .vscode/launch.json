@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mid_LPC_41",
+            "request": "launch",
+            "mainClass": "JAVA.Mid.mid_LPC_41",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
             "name": "mid_424",
             "request": "launch",
             "mainClass": "JAVA.Mid.mid_424",
