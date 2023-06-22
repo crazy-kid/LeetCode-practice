@@ -3,23 +3,22 @@ package JAVA.Hard;
 public class hard_995 {
 
     public static void main(String[] args) {
-        int[] nums = { 0, 0, 0, 1, 0, 1, 1, 0 };
-        int k = 3;
+        int[] nums = { 0, 1, 0 };
+        int k = 1;
 
-        int left = 0;
         int ans = 0;
-        while (left < nums.length) {
-            while (left < nums.length && nums[left] == 1)
-                left++;
-            if (left >= nums.length)
-                return;
-            for (int i = 0; i < k; i++) {
-                if (left + i >= nums.length)
+        int[] diff = new int[nums.length + 1];
+        int curFlip = 0;
+        for (int i = 0; i < nums.length; i++) {
+            curFlip += diff[i];
+            if ((nums[i] + curFlip) % 2 == 0) {
+                diff[i]++;
+                curFlip++;
+                if (i + k > nums.length)
                     return;
-                else
-                    nums[left + i] = 1 - nums[left + i];
+                diff[i + k]--;
+                ans++;
             }
-            ans++;
         }
         System.out.println(ans);
     }
