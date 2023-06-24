@@ -9,12 +9,7 @@ import java.util.ArrayList;
 public class test {
 
     public static void main(String[] args) {
-        String a = "a2";
-        try {
-            System.out.println(Integer.valueOf(a));
-        } catch (Exception e) {
-            System.out.println(true);
-        }
+        System.out.println('z' + 0);
     }
 
 }
