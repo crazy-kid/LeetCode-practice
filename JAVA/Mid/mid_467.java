@@ -7,22 +7,18 @@ public class mid_467 {
     public static void main(String[] args) {
         String s = "cac";
 
-        char[] cList = s.toCharArray();
-        ArrayList<Integer> list = new ArrayList<Integer>();
-        int l = 1;
-        for (int i = 1; i < cList.length; i++) {
-            if (cList[i] == cList[i - 1] + 1 || (cList[i] == 'a' & cList[i - 1] == 'z')) {
-                l++;
-            } else {
-                list.add(l);
-                l = 1;
+        char[] slist = s.toCharArray();
+        int left = 0, right = -1, ans = 0;
+        int[] count = new int[26];
+        while (++right < slist.length) {
+            if (!(right == 0
+                    || slist[right] == slist[right - 1] + 1 | (slist[right] == 'a' & slist[right - 1] == 'z'))) {
+                left = right;
             }
+            count[slist[right] - 'a'] = Math.max(count[slist[right] - 'a'], right - left + 1);
         }
-        list.add(l);
-        int ans = 0;
-        for (int i = 0; i < list.size(); i++) {
-            int k = list.get(i);
-            ans += k * (k - 1) / 2 + k;
+        for (int i : count) {
+            ans += i;
         }
         System.out.println(ans);
     }
