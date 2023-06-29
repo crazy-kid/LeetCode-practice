@@ -1,3 +1,5 @@
+package JAVA.Easy;
+
 import java.util.HashMap;
 
 public class easy_266 {

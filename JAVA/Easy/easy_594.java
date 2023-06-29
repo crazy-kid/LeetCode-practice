@@ -1,3 +1,5 @@
+package JAVA.Easy;
+
 import java.util.Arrays;
 
 public class easy_594 {

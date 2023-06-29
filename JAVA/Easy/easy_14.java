@@ -1,3 +1,5 @@
+package JAVA.Easy;
+
 public class easy_14 {
 
     public static void main(String[] args) {

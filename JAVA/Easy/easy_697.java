@@ -1,3 +1,5 @@
+package JAVA.Easy;
+
 import java.util.HashMap;
 
 public class easy_697 {
@@ -22,9 +24,9 @@ public class easy_697 {
         }
 
         int ans = Integer.MAX_VALUE;
-        for (int key : map.keySet()){
-            if(max == map.get(key)){
-                ans = Math.min(end.get(key)-begin.get(key), ans);
+        for (int key : map.keySet()) {
+            if (max == map.get(key)) {
+                ans = Math.min(end.get(key) - begin.get(key), ans);
             }
         }
         ans++;

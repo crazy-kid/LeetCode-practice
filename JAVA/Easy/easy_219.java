@@ -1,3 +1,5 @@
+package JAVA.Easy;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 
