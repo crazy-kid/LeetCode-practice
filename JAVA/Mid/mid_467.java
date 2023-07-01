@@ -1,7 +1,5 @@
 package JAVA.Mid;
 
-import java.util.ArrayList;
-
 public class mid_467 {
 
     public static void main(String[] args) {
