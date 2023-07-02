@@ -13,6 +13,6 @@ public class test {
     public static void main(String[] args) {
         double a = 1.5;
         System.out.println(1e3);
-
+        System.out.println(Integer.MAX_VALUE);
     }
 }
