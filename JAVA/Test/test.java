@@ -17,5 +17,6 @@ public class test {
         System.out.println(Integer.MAX_VALUE);
         HashMap<Integer, Integer> map = new HashMap<>();
         map.getOrDefault(map, null);
+
     }
 }
