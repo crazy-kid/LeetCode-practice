@@ -13,10 +13,9 @@ public class test {
 
     public static void main(String[] args) {
         double a = 1.5;
-        System.out.println(1e3);
-        System.out.println(Integer.MAX_VALUE);
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.getOrDefault(map, null);
+        int i = 7;
+        System.out.println(Integer.toBinaryString(257));
+        System.out.println(Integer.toBinaryString(0));
 
     }
 }
