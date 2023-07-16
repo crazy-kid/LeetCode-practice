@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mid_39",
+            "request": "launch",
+            "mainClass": "JAVA.Mid.mid_39",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
             "name": "hard_37",
             "request": "launch",
             "mainClass": "JAVA.Hard.hard_37",
