@@ -12,10 +12,5 @@ import java.util.ArrayList;
 public class test {
 
     public static void main(String[] args) {
-        double a = 1.5;
-        int i = 7;
-        System.out.println(Integer.toBinaryString(257));
-        System.out.println(Integer.toBinaryString(0));
-
     }
 }
