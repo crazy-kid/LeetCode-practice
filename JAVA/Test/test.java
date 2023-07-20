@@ -12,5 +12,8 @@ import java.util.ArrayList;
 public class test {
 
     public static void main(String[] args) {
+        int a = 2;
+        char c = (char) (a + '1');
+        System.out.println(c);
     }
 }
