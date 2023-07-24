@@ -13,7 +13,9 @@ public class test {
 
     public static void main(String[] args) {
         int a = 2;
-        char c = (char) (a + '1');
-        System.out.println(c);
+        System.out.println("A= " + ('A' + 0));
+        System.out.println("Z= " + ('Z' + 0));
+        System.out.println("a= " + ('a' + 0));
+        System.out.println("z= " + ('z' + 0));
     }
 }
