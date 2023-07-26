@@ -12,10 +12,7 @@ import java.util.ArrayList;
 public class test {
 
     public static void main(String[] args) {
-        int a = 2;
-        System.out.println("A= " + ('A' + 0));
-        System.out.println("Z= " + ('Z' + 0));
-        System.out.println("a= " + ('a' + 0));
-        System.out.println("z= " + ('z' + 0));
+        int[] list = { 1, 2, 3, 4, 5, 6, 7 };
+
     }
 }
