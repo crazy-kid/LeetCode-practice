@@ -13,7 +13,8 @@ public class test {
 
     public static void main(String[] args) {
         int[] list = { 1, 2, 3, 4, 5, 6, 7 };
-        System.out.println(Integer.valueOf(1));
+        String str = "abcdefg";
+        System.out.println(str.substring(0, 0));
 
     }
 }
