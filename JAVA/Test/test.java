@@ -13,8 +13,9 @@ public class test {
 
     public static void main(String[] args) {
         int[] list = { 1, 2, 3, 4, 5, 6, 7 };
-        String str = "abcdefg";
-        System.out.println(str.substring(0, 0));
+        StringBuilder sb = new StringBuilder("abcdefg");
+        sb.insert(0, "zxc");
+        System.out.println(-1 % 16);
 
     }
 }
