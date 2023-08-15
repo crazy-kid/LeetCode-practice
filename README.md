@@ -1,5 +1,8 @@
 # LeetCode-practice
-算法题个人练习
+
+- [LeetCode-practice](#leetcode-practice)
+  - [JAVA NOTE](#java-note)
+    - [`hashCode()`](#hashcode)
 
 ## JAVA NOTE
 ### `hashCode()`
