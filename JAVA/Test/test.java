@@ -12,6 +12,9 @@ import java.util.ArrayList;
 public class test {
 
     public static void main(String[] args) {
-        System.out.println(Math.pow(2, 7));
+        StringBuilder ab = new StringBuilder();
+        int a = 1;
+        ab.append(a);
+        System.out.println(ab.toString());
     }
 }
