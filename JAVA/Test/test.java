@@ -15,6 +15,7 @@ public class test {
         StringBuilder ab = new StringBuilder();
         int a = 1;
         ab.append(a);
-        System.out.println(ab.toString());
+        System.out.println(String.valueOf('a'));
+
     }
 }
