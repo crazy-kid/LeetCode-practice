@@ -60,7 +60,7 @@ public class hard_127 {
                     if (visit1.contains(end))
                         continue;
                     if (visit2.contains(end)) {
-                        System.out.println(ans + 1);
+                        System.out.println(ans + 2);
                         return;
                     }
                     visit1.add(end);
@@ -75,7 +75,7 @@ public class hard_127 {
                     if (visit2.contains(end))
                         continue;
                     if (visit1.contains(end)) {
-                        System.out.println(ans + 1);
+                        System.out.println(ans + 2);
                         return;
                     }
                     visit2.add(end);
