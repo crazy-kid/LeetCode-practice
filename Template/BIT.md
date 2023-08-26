@@ -1,10 +1,12 @@
 # 树状数组 Fenwick tree
 
 ## 用途
+
 1. 查询、修改单个元素. 时间复杂度：$\mathcal O(\log n)$
 2. 查询连续区间和. 时间复杂度：$\mathcal O(\log n)$
 
 ## Java模板
+
 ```Java
 class BIT {
     // tree[0]不会被使用，为了代码简洁并且不陷入死循环
@@ -32,11 +34,10 @@ class BIT {
         int res = 0;
         while (i > 0) {
             res += tree[i];
-
             /*
-                * 每次循环按照lowbit加前缀和
-                * 也可以等价地写成 i &= i - 1, 并且更快
-                */
+            * 每次循环按照lowbit加前缀和
+            * 也可以等价地写成 i &= i - 1, 并且更快
+            */
             i -= lowBit(i);
         }
         return res;
@@ -48,7 +49,8 @@ class BIT {
     }
 }
 ```
-## 参考资料
-> https://www.bilibili.com/video/BV1Ez4y1Y7Az/?spm_id_from=333.337.search-card.all.click&vd_source=d4271b6eacb73942c28e1384bb8e8bd7
 
->https://en.wikipedia.org/wiki/Fenwick_tree
+## 参考资料
+
+> <https://www.bilibili.com/video/BV1Ez4y1Y7Az/?spm_id_from=333.337.search-card.all.click&vd_source=d4271b6eacb73942c28e1384bb8e8bd7>
+> <https://en.wikipedia.org/wiki/Fenwick_tree>

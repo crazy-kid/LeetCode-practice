@@ -16,6 +16,5 @@ public class test {
         int a = 1;
         ab.append(a);
         System.out.println(String.valueOf('a'));
-
     }
 }
