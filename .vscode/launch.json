@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mid_6",
+            "request": "launch",
+            "mainClass": "JAVA.Mid.mid_6",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_406",
+            "request": "launch",
+            "mainClass": "JAVA.Mid.mid_406",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
+            "name": "mid_57",
+            "request": "launch",
+            "mainClass": "JAVA.Mid.mid_57",
+            "projectName": "LeeCode_df2b9df3"
+        },
+        {
+            "type": "java",
             "name": "mid_179",
             "request": "launch",
             "mainClass": "JAVA.Mid.mid_179",
